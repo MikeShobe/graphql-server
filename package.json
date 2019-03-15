@@ -1,0 +1,25 @@
+{
+  "name": "graphql-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "esm": "^3.2.16",
+    "graphql-yoga": "^1.17.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeShobe/graphql-server.git"
+  },
+  "author": "Mike Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikeShobe/graphql-server/issues"
+  },
+  "homepage": "https://github.com/MikeShobe/graphql-server#readme"
+}
